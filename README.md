@@ -1,6 +1,6 @@
 ![logo](https://github.com/Devaansh08/Devaansh08/blob/main/WhatsApp%20Image%202024-08-08%20at%206.31.22%20PM.jpeg)
 # 💫 About Me:
-🔭 I’m currently studying computer science engineering<br>👯 I’m looking to collaborate on creative design tools <br>🤝 I’m looking for help with Framework<br>🌱 I’m currently learning Front-end Development<br>💬 Ask me about Javascript
+🔭 I’m  recently graduated computer science engineering<br>👯 I’m looking to collaborate on creative design tools <br>🤝 I’m looking for help with Framework<br>🌱 I’m currently learning Front-end Development<br>💬 Ask me about Javascript
 <img align ="right" width = "500" alt = "loading" src ="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 ## 🌐 Socials:
